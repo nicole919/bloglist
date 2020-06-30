@@ -1,6 +1,6 @@
 ## Blog Posts
 
-This app uses Redux-Thunk to display a list of blog posts using the https://jsonplaceholder.typicode.com/ API
+This app uses Redux-Thunk to display a list of blog posts and user names using the https://jsonplaceholder.typicode.com/ API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
